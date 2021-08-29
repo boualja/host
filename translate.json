@@ -12,15 +12,15 @@
 	"INTER_INTERVAL":1,
 
 
-    "Click1":"false",
-    "Click2":"false",
+    "Click1":"true",
+    "Click2":"true",
     "Click3":"false",
     "Click4":"false",
     "Click5":"false",
     "Click6":"false",
   
 	
-    "nat1":"false",
+    "nat1":"true",
     "nat2":"false",
     
 
