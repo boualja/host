@@ -11,8 +11,8 @@
 	"INTER_INTERVAL":4,
 
 
-    "Click1":"true",
-    "Click2":"true",
+    "Click1":"false",
+    "Click2":"false",
     "Click3":"false",
     "Click4":"false",
     "Click5":"false",
